@@ -10,7 +10,7 @@ int main()
     printf("Beam = ");
     scanf("%f",&r);
 
-    printf("the area of the circle is : %0.2f",pi*pow(r,2));4
+    printf("the area of the circle is : %0.2f",pi*pow(r,2));
 
     // PI * R^2
 
